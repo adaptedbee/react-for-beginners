@@ -3,4 +3,4 @@
 
 Технологии: NPM / Webpack / ES6 / React / Firebase
 
-Онлайн: https://adaptedbee.github.io/react-for-beginners/
+Онлайн: http://automatic-brothers.surge.sh/
